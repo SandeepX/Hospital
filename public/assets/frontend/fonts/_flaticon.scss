@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-blood-test:before { content: "\f100"; }
+.flaticon-002-blood-pressure:before { content: "\f101"; }
+.flaticon-003-blood-sample:before { content: "\f102"; }
+.flaticon-004-joint:before { content: "\f103"; }
+.flaticon-005-checklist:before { content: "\f104"; }
+.flaticon-006-medical-appointment:before { content: "\f105"; }
+.flaticon-007-mri:before { content: "\f106"; }
+.flaticon-008-dental-checkup:before { content: "\f107"; }
+.flaticon-009-diabetes:before { content: "\f108"; }
+.flaticon-010-water:before { content: "\f109"; }
+.flaticon-011-vision:before { content: "\f10a"; }
+.flaticon-012-eye-test:before { content: "\f10b"; }
+.flaticon-013-neurology-reflex-hammer:before { content: "\f10c"; }
+.flaticon-014-health-check:before { content: "\f10d"; }
+.flaticon-015-dumbbell:before { content: "\f10e"; }
+.flaticon-016-stethoscope:before { content: "\f10f"; }
+.flaticon-017-smartwatch:before { content: "\f110"; }
+.flaticon-018-vaccine:before { content: "\f111"; }
+.flaticon-019-human-organs:before { content: "\f112"; }
+.flaticon-020-examine:before { content: "\f113"; }
+.flaticon-021-mammogram:before { content: "\f114"; }
+.flaticon-022-medical-certificate:before { content: "\f115"; }
+.flaticon-023-otoscope:before { content: "\f116"; }
+.flaticon-024-blood-cells:before { content: "\f117"; }
+.flaticon-025-serum:before { content: "\f118"; }
+.flaticon-026-medicine:before { content: "\f119"; }
+.flaticon-027-fetus:before { content: "\f11a"; }
+.flaticon-028-vaccine:before { content: "\f11b"; }
+.flaticon-029-bathroom-scale:before { content: "\f11c"; }
+.flaticon-030-x-ray:before { content: "\f11d"; }
+
+$font-Flaticon-001-blood-test: "\f100";
+$font-Flaticon-002-blood-pressure: "\f101";
+$font-Flaticon-003-blood-sample: "\f102";
+$font-Flaticon-004-joint: "\f103";
+$font-Flaticon-005-checklist: "\f104";
+$font-Flaticon-006-medical-appointment: "\f105";
+$font-Flaticon-007-mri: "\f106";
+$font-Flaticon-008-dental-checkup: "\f107";
+$font-Flaticon-009-diabetes: "\f108";
+$font-Flaticon-010-water: "\f109";
+$font-Flaticon-011-vision: "\f10a";
+$font-Flaticon-012-eye-test: "\f10b";
+$font-Flaticon-013-neurology-reflex-hammer: "\f10c";
+$font-Flaticon-014-health-check: "\f10d";
+$font-Flaticon-015-dumbbell: "\f10e";
+$font-Flaticon-016-stethoscope: "\f10f";
+$font-Flaticon-017-smartwatch: "\f110";
+$font-Flaticon-018-vaccine: "\f111";
+$font-Flaticon-019-human-organs: "\f112";
+$font-Flaticon-020-examine: "\f113";
+$font-Flaticon-021-mammogram: "\f114";
+$font-Flaticon-022-medical-certificate: "\f115";
+$font-Flaticon-023-otoscope: "\f116";
+$font-Flaticon-024-blood-cells: "\f117";
+$font-Flaticon-025-serum: "\f118";
+$font-Flaticon-026-medicine: "\f119";
+$font-Flaticon-027-fetus: "\f11a";
+$font-Flaticon-028-vaccine: "\f11b";
+$font-Flaticon-029-bathroom-scale: "\f11c";
+$font-Flaticon-030-x-ray: "\f11d";
